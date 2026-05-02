@@ -31,7 +31,7 @@ This project helps users create secure passwords instantly and improves web secu
 ## 📷 Project Preview
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/abhay-singh-bisht12/passwordGenerator/main/assets/home.png" width="70%" alt="Password Generator UI"/>
+  <img src="https://raw.githubusercontent.com/abhay-singh-bisht12/passwordGenerator/main/home.png" width="70%" alt="Password Generator UI"/>
 </p>
 ---
 
