@@ -28,7 +28,7 @@ This project helps users create secure passwords instantly and improves web secu
 ---
 
 ## 📷 Project Preview
-![Password Generator UI](./assets/home.png)
+![img](assets/home.png)
 
 ---
 
