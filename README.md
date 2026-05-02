@@ -28,8 +28,11 @@ This project helps users create secure passwords instantly and improves web secu
 ---
 
 ## 📷 Project Preview
-<img src="https://raw.githubusercontent.com/abhay-singh-bisht12/Tic-Toe-game-/main/assets/home.png" width="45%">
+## 📷 Project Preview
 
+<p align="center">
+  <img src="https://raw.githubusercontent.com/abhay-singh-bisht12/passwordGenerator/main/assets/home.png" width="70%" alt="Password Generator UI"/>
+</p>
 ---
 
 ## ⚙️ How It Works
